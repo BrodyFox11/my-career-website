@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    background-color: rgb(13, 33, 48);
+    color: whitesmoke;
+}
+
+p {
+    font-size: 25px;
+}
+
+p1 {
+    color: azure;
+}
+
+p {
+    background-color: black;
+    color: azure;
+
+}
+p2 {
+    color: azure;
+}
